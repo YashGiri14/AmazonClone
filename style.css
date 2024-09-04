@@ -19,7 +19,7 @@
 
 .logo{
 
-    background-image: url("ama.jpg");
+    background-image: url("images/ama.jpg");
     background-size: cover;
     height: 50px;
     width: 150px;
@@ -135,7 +135,7 @@ margin-left: 15px;
 /* For hero section */
 
 .hero-section{
-    background-image: url("ama2.jpg");
+    background-image: url("images/ama2.jpg");
     background-size: cover;
     height: 400px;
     display: flex;
@@ -235,7 +235,7 @@ ul a{
 }
 
 .logo{
-    background-image: url("ama.jpg");
+    background-image: url("images/ama.jpg");
     background-size: cover;
     height: 50px;
     width: 150px;
